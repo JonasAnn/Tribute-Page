@@ -1,2 +1,2 @@
 # Tribute-Page
-First Project for Freecodecamp school
+First Project for Freecodecamp
